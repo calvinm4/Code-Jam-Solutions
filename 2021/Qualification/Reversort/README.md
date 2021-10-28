@@ -1,2 +1,2 @@
 ### Problem Statement
-[Image not loading :(]!(ProblemStatement.png)
+![Image not loading :(](ProblemStatement.png)
